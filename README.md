@@ -4,6 +4,6 @@
 
 ## 📈 &nbsp;My GitHub History!
 <a href="https://github.com/Roopaksh1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Roopaksh1&theme=noctis_minimus&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roopaksh1&theme=noctis_minimus&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Roopaksh1&theme=noctis_minimus&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roopaksh1&theme=noctis_minimus&layout=compact" />
 </a>
