@@ -1,10 +1,9 @@
 <div align= "center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width= "100"></div>
 
 <div align= "center">
-  <h1>👋 Hey there</h1>
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Roopaksh1" alt="Roopaksh1" /> </p>
   <p>I'm Roopaksh</p>
-  <a href="mailto:saraswatroopaksh@gmail.com"> <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail" height="30" style="vertical-align:top; margin:4px"></a>
 </div>
 
 ## 📈 &nbsp;My GitHub History!
@@ -27,4 +26,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+## Reach me on
+<p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/roopaksh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:saraswatroopaksh@gmail.com?subject=Hello%20Roopaksh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
