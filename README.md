@@ -2,6 +2,7 @@
 
 <div align= "center">
   <h1>👋 Hey there</h1>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Roopaksh1" alt="Roopaksh1" /> </p>
   <p>I'm Roopaksh</p>
   <a href="mailto:saraswatroopaksh@gmail.com"> <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail" height="30" style="vertical-align:top; margin:4px"></a>
 </div>
