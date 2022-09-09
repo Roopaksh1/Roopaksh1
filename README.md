@@ -19,5 +19,5 @@
 
 ## Latest steps on my learning journey
 
-- MERN Stack in training at [Brain Mentors](https://brain-mentors.com/)
+- MERN Stack during training with [Brain Mentors](https://brain-mentors.com/)
 - Web Foundations on [The Odin Project](https://theodinprojects.com/)
