@@ -16,8 +16,3 @@
   <a target="_blank"href="https://www.linkedin.com/in/roopaksh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:saraswatroopaksh@gmail.com?subject=Hello%20Roopaksh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-## Latest steps on my learning journey
-
-- MERN Stack during training with [Brain Mentors](https://brain-mentors.com/)
-- Web Foundations on [The Odin Project](https://theodinprojects.com/)
